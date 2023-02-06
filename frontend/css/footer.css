@@ -1,0 +1,160 @@
+/* screen - footer */
+
+.footer {
+  align-items: flex-start;
+  background-color: var(--general-color2);
+  border: 0.06vw solid;
+  border-color: transparent;
+  display: flex;
+  height: 31.62vw;
+  padding: 4.5vw 2.31vw;
+  width: 100.0vw;
+}
+
+.footer .overlap-group {
+  height: 22.5vw;
+  /* position: relative; */
+  position: sticky;
+  width: 90.19vw;
+  
+}
+
+.footer .nav {
+  justify-content: space-between;
+  left: 5.19vw;
+  position: absolute;
+  top: 0;
+  width: 85.0vw;
+}
+
+.footer .logo {
+  height: 2.0vw;
+  min-width: 18.0vw;
+}
+
+.footer .nav-menu {
+  gap: 4.0vw;
+  width: fit-content;
+}
+
+.footer .nfz {
+  letter-spacing: 0;
+  line-height: 2.12vw;
+  margin-top: -0.06vw;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.footer .frame-14621 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1.0vw;
+  width: 11.5vw;
+}
+
+.footer .place {
+  margin-top: -0.06vw;
+}
+
+.footer .about-us {
+  letter-spacing: 0;
+  line-height: 1.75vw;
+  white-space: nowrap;
+  width: 11.44vw;
+}
+
+.footer .your-nf-ts {
+  letter-spacing: 0;
+  line-height: 1.75vw;
+  white-space: nowrap;
+  width: 11.44vw;
+}
+
+.footer .blog {
+  letter-spacing: 0;
+  line-height: 1.75vw;
+  white-space: nowrap;
+  width: 11.44vw;
+}
+
+.footer .info {
+  letter-spacing: 0;
+  line-height: 2.12vw;
+  margin-top: -0.06vw;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.footer .terms-conditions {
+  letter-spacing: 0;
+  line-height: 1.75vw;
+  margin-top: -0.06vw;
+  white-space: nowrap;
+  width: 11.44vw;
+}
+
+.footer .privacy-policy {
+  letter-spacing: 0;
+  line-height: 1.75vw;
+  white-space: nowrap;
+  width: 11.44vw;
+}
+
+.footer .cookies {
+  letter-spacing: 0;
+  line-height: 1.75vw;
+  white-space: nowrap;
+  width: 11.44vw;
+}
+
+.footer .community {
+  letter-spacing: 0;
+  line-height: 2.12vw;
+  margin-top: -0.06vw;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.footer .help-center {
+  letter-spacing: 0;
+  line-height: 1.75vw;
+  margin-top: -0.06vw;
+  white-space: nowrap;
+  width: 11.44vw;
+}
+
+.footer .webinars {
+  letter-spacing: 0;
+  line-height: 1.75vw;
+  white-space: nowrap;
+  width: 11.44vw;
+}
+
+.footer .professionals {
+  letter-spacing: 0;
+  line-height: 1.75vw;
+  white-space: nowrap;
+  width: 11.44vw;
+}
+
+.footer .logo-2 {
+  height: 20.5vw;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2.0vw;
+  width: 36.44vw;
+}
+
+.footer .nav-1 {
+  align-items: flex-start;
+  display: flex;
+}
+
+.footer .place-2 {
+  letter-spacing: 0;
+  line-height: 1.75vw;
+  white-space: nowrap;
+  width: 11.44vw;
+}

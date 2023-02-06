@@ -1,0 +1,448 @@
+/* screen - test-page */
+
+.test-page {
+  align-items: flex-start;
+  background-color: var(--general-color3);
+  border: 0.06vw none;
+  display: flex;
+  flex-direction: column;
+  height: 194.06vw;
+  overflow: hidden;
+  width: 100.0vw;
+}
+
+.test-page .hero-article-detail {
+  background-color: var(--general-color2);
+  height: 60.81vw;
+  overflow: hidden;
+  position: relative;
+  width: 100.0vw;
+}
+
+.test-page .overlap-group3 {
+  height: 69.75vw;
+  left: -12.0vw;
+  position: absolute;
+  top: -1.81vw;
+  width: 124.06vw;
+}
+
+.test-page .group-container {
+  height: 69.75vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 124.06vw;
+}
+
+.test-page .group-36458 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16.62vw;
+  height: 56.12vw;
+  left: 12.0vw;
+  min-width: 100.0vw;
+  position: absolute;
+  top: 2.12vw;
+}
+
+.test-page .line {
+  height: 56.12vw;
+  object-fit: cover;
+  width: 0.06vw;
+}
+
+.test-page .group-36459 {
+  align-items: flex-start;
+  display: flex;
+  height: 124.06vw;
+  justify-content: flex-end;
+  left: 27.19vw;
+  min-width: 69.75vw;
+  padding: 12.0vw 1.81vw;
+  position: absolute;
+  top: -27.12vw;
+  transform: rotate(-90deg);
+}
+
+.test-page .overlap-group {
+  height: 100.0vw;
+  position: relative;
+  width: 60.81vw;
+}
+
+.test-page .line-3 {
+  left: -29.31vw;
+}
+
+.test-page .line-5 {
+  left: -21.31vw;
+}
+
+.test-page .line-6 {
+  left: -13.31vw;
+}
+
+.test-page .line-7 {
+  left: -5.31vw;
+}
+
+.test-page .line-8 {
+  left: 2.69vw;
+}
+
+.test-page .line-9 {
+  left: 10.69vw;
+}
+
+.test-page .line-4 {
+  left: -37.31vw;
+}
+
+.test-page .background-1 {
+  height: 60.81vw;
+  left: -19.62vw;
+  object-fit: cover;
+  position: absolute;
+  top: 19.62vw;
+  transform: rotate(90deg);
+  width: 100.0vw;
+}
+
+.test-page .img {
+  align-items: flex-end;
+  border-radius: 1.0vw;
+  display: flex;
+  height: 29.38vw;
+  left: 21.5vw;
+  overflow: hidden;
+  position: absolute;
+  top: 28.25vw;
+  width: 81.0vw;
+}
+
+.test-page .overlap-group2 {
+  height: 36.31vw;
+  margin-bottom: -6.97vw;
+  position: relative;
+  width: 81.0vw;
+}
+
+.test-page .rectangle-10 {
+  background-color: #f1afaf;
+  height: 36.31vw;
+  left: 0;
+  width: 27.06vw;
+}
+
+.test-page .rectangle-11 {
+  background-color: #afc5f1;
+  height: 36.31vw;
+  left: 27.06vw;
+  width: 27.06vw;
+}
+
+.test-page .rectangle-12 {
+  background-color: #f1ceaf;
+  height: 36.31vw;
+  left: 53.94vw;
+  width: 27.06vw;
+}
+
+.test-page .group {
+  height: 23.88vw;
+  left: 5.38vw;
+  position: absolute;
+  top: 0;
+  width: 16.31vw;
+}
+
+.test-page .group-1 {
+  height: 23.88vw;
+  left: 32.25vw;
+  position: absolute;
+  top: 0;
+  width: 16.31vw;
+}
+
+.test-page .group-2 {
+  height: 23.88vw;
+  left: 59.31vw;
+  position: absolute;
+  top: 0;
+  width: 16.31vw;
+}
+
+.test-page .rectangle-2659 {
+  height: 29.38vw;
+  left: 0;
+  width: 81.0vw;
+}
+
+.test-page .navbar {
+  align-items: center;
+  background-color: var(--general-color2);
+  display: flex;
+  gap: 2.69vw;
+  left: 11.94vw;
+  padding: 2.5vw 9.5vw;
+  position: absolute;
+  top: 2.12vw;
+  width: 100.0vw;
+}
+
+.test-page .navbar-1 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 3.5vw;
+  justify-content: center;
+}
+
+.test-page .frame-1000001235 {
+  align-items: center;
+  width: fit-content;
+}
+
+.test-page .navbar-link-about-us {
+  letter-spacing: 0;
+  line-height: 1.62vw;
+  margin-top: -0.06vw;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.test-page .navbar-link-contact-us {
+  letter-spacing: 0;
+  line-height: 1.62vw;
+  margin-top: -0.06vw;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.test-page .button {
+  align-items: center;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(255, 155, 0) 12.5%, rgb(237, 28, 36) 100%);
+  border-radius: 3.75vw;
+  box-shadow: 0.0vw 0.94vw 2.25vw #f657144c;
+  display: flex;
+  flex-direction: column;
+  gap: 0.62vw;
+  height: 4.5vw;
+  justify-content: center;
+  padding: 1.5vw 2.0vw;
+  width: fit-content;
+}
+
+.test-page .getting-started-profile {
+  color: var(--general-color3);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 700;
+  height: 9.0vw;
+  left: 9.75vw;
+  letter-spacing: 0;
+  line-height: 4.5vw;
+  position: absolute;
+  top: 14.5vw;
+  width: 54.69vw;
+}
+
+.test-page .screenshot-2023-02-05-at-1239-1 {
+  align-self: center;
+  height: 45.19vw;
+  margin-left: 1.25vw;
+  margin-top: 19.31vw;
+  object-fit: cover;
+  width: 79.62vw;
+}
+
+.test-page .footer {
+  align-items: flex-start;
+  background-color: var(--general-color2);
+  border: 0.06vw solid;
+  border-color: transparent;
+  border-image: radial-gradient(rgb(255, 155, 0) 12.5%, rgb(237, 28, 36)) 1;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 31.62vw;
+  justify-content: flex-start;
+  margin-left: -0.31vw;
+  margin-top: 37.12vw;
+  mix-blend-mode: normal;
+  padding: 4.5vw 2.31vw;
+  width: 100.0vw;
+}
+
+.test-page .overlap-group4 {
+  height: 22.5vw;
+  position: relative;
+  width: 90.19vw;
+}
+
+.test-page .nav {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  left: 5.19vw;
+  position: absolute;
+  top: 0;
+  width: 85.0vw;
+}
+
+.test-page .logo {
+  height: 2.0vw;
+  min-width: 18.0vw;
+}
+
+.test-page .nav-menu {
+  align-items: flex-start;
+  display: flex;
+  gap: 4.0vw;
+  width: fit-content;
+}
+
+.test-page .nfz {
+  letter-spacing: 0;
+  line-height: 2.12vw;
+  margin-top: -0.06vw;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.test-page .frame-14621 {
+  align-items: flex-start;
+  flex-direction: column;
+  width: 11.5vw;
+}
+
+.test-page .place {
+  letter-spacing: 0;
+  line-height: 1.75vw;
+  margin-top: -0.06vw;
+  white-space: nowrap;
+  width: 11.44vw;
+}
+
+.test-page .about-us {
+  letter-spacing: 0;
+  line-height: 1.75vw;
+  white-space: nowrap;
+  width: 11.44vw;
+}
+
+.test-page .your-nf-ts {
+  letter-spacing: 0;
+  line-height: 1.75vw;
+  white-space: nowrap;
+  width: 11.44vw;
+}
+
+.test-page .blog {
+  letter-spacing: 0;
+  line-height: 1.75vw;
+  white-space: nowrap;
+  width: 11.44vw;
+}
+
+.test-page .info {
+  letter-spacing: 0;
+  line-height: 2.12vw;
+  margin-top: -0.06vw;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.test-page .terms-conditions {
+  letter-spacing: 0;
+  line-height: 1.75vw;
+  margin-top: -0.06vw;
+  white-space: nowrap;
+  width: 11.44vw;
+}
+
+.test-page .privacy-policy {
+  letter-spacing: 0;
+  line-height: 1.75vw;
+  white-space: nowrap;
+  width: 11.44vw;
+}
+
+.test-page .cookies {
+  letter-spacing: 0;
+  line-height: 1.75vw;
+  white-space: nowrap;
+  width: 11.44vw;
+}
+
+.test-page .community {
+  letter-spacing: 0;
+  line-height: 2.12vw;
+  margin-top: -0.06vw;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.test-page .help-center {
+  letter-spacing: 0;
+  line-height: 1.75vw;
+  margin-top: -0.06vw;
+  white-space: nowrap;
+  width: 11.44vw;
+}
+
+.test-page .place-1 {
+  letter-spacing: 0;
+  line-height: 1.75vw;
+  white-space: nowrap;
+  width: 11.44vw;
+}
+
+.test-page .webinars {
+  letter-spacing: 0;
+  line-height: 1.75vw;
+  white-space: nowrap;
+  width: 11.44vw;
+}
+
+.test-page .professionals {
+  letter-spacing: 0;
+  line-height: 1.75vw;
+  white-space: nowrap;
+  width: 11.44vw;
+}
+
+.test-page .logo-2 {
+  height: 20.5vw;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2.0vw;
+  width: 36.44vw;
+}
+
+.test-page .frame {
+  display: flex;
+  gap: 1.0vw;
+}
+
+.test-page .line-1 {
+  height: 0.06vw;
+  object-fit: cover;
+  position: absolute;
+  top: 49.81vw;
+  transform: rotate(90deg);
+  width: 99.69vw;
+}
+
+.test-page .navbar-link {
+  letter-spacing: 0;
+  line-height: 1.62vw;
+  margin-top: -0.06vw;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}

@@ -1,0 +1,420 @@
+/* screen - homepage */
+
+.homepage {
+  align-items: flex-start;
+  border: 0.06vw none;
+  display: flex;
+  flex-direction: column;
+  height: 227.03vw;
+  width: 100.0vw;
+}
+
+.homepage .navbar {
+  align-items: center;
+  background-color: var(--general-color2);
+  display: flex;
+  gap: 2.68vw;
+  padding: 2.5vw 9.49vw;
+  width: 99.88vw;
+}
+
+.homepage .navbar-1 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 3.5vw;
+  justify-content: center;
+}
+
+.homepage .frame-1000001235 {
+  gap: 1.0vw;
+  width: fit-content;
+}
+
+.homepage .navbar-link-awards {
+  letter-spacing: 0;
+  line-height: 1.62vw;
+  margin-top: -0.06vw;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .navbar-link {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 1.62vw;
+  margin-top: -0.06vw;
+  text-align: right;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .button {
+  align-items: center;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(255, 155, 0) 12.5%, rgb(237, 28, 36) 100%);
+  border-radius: 3.75vw;
+  box-shadow: 0.0vw 0.94vw 2.25vw #f657144c;
+  display: flex;
+  flex-direction: column;
+  gap: 0.62vw;
+  height: 4.49vw;
+  justify-content: center;
+  padding: 1.5vw 2.0vw;
+  width: fit-content;
+}
+
+.homepage .x-start {
+  letter-spacing: 0;
+  line-height: 1.5vw;
+  margin-top: -0.06vw;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .overlap-group4 {
+  height: 205.12vw;
+  position: relative;
+  width: 100.0vw;
+}
+
+.homepage .evolution {
+  align-items: flex-start;
+  background-color: var(--bckgroundbg-1);
+  display: flex;
+  flex-direction: column;
+  gap: 5.62vw;
+  left: 0.12vw;
+  padding: 4.49vw 9.49vw;
+  position: absolute;
+  top: 131.21vw;
+  width: 99.88vw;
+}
+
+.homepage .text {
+  align-items: flex-start;
+  align-self: stretch;
+  gap: 1.0vw;
+}
+
+.homepage .founder-of-brida-university {
+  letter-spacing: 0;
+  line-height: 4.49vw;
+  margin-top: -0.06vw;
+  white-space: nowrap;
+  width: 50.94vw;
+}
+
+.homepage .everyone-has-access {
+  color: var(--general-color2);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  height: 13.8vw;
+  letter-spacing: 0;
+  line-height: 2.62vw;
+  opacity: 0.7;
+  width: 80.15vw;
+}
+
+.homepage .img {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+}
+
+.homepage .group-39932 {
+  background-image: url(../img/rectangle-2481.png);
+}
+
+.homepage .overlap-group-1 {
+  align-items: center;
+  background: linear-gradient(180deg, rgba(151, 71, 255, 0) 0%, rgb(151, 71, 255) 100%);
+  border-radius: 0.0vw 0.0vw 1.62vw 1.62vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5vw;
+  min-height: 12.36vw;
+  padding: 3.25vw 0;
+  position: relative;
+  top: 27.65vw;
+  width: 25.53vw;
+}
+
+.homepage .phase-1 {
+  margin-top: 0.62vw;
+}
+
+.homepage .earth-elemental {
+  letter-spacing: 0;
+  line-height: 2.12vw;
+  text-align: center;
+  white-space: nowrap;
+  width: 17.79vw;
+}
+
+.homepage .group-39931 {
+  background-image: url(../img/rectangle-2481-1.png);
+}
+
+.homepage .overlap-group {
+  align-items: center;
+  /* background: linear-gradient(180deg, rgba(151, 71, 255, 0) 0%, rgb(151, 71, 255) 100%); */
+  border-radius: 0.0vw 0.0vw 1.62vw 1.62vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5vw;
+  min-height: 12.36vw;
+  padding: 2.5vw 0;
+  position: relative;
+  top: 27.65vw;
+  width: 25.53vw;
+}
+
+.homepage .phase {
+  margin-top: 2.12vw;
+}
+
+.homepage .group-39930 {
+  background-image: url(../img/rectangle-2480.png);
+}
+
+.homepage .selection {
+  align-items: center;
+  background-color: var(--bckgroundbg-1);
+  display: flex;
+  gap: 8.43vw;
+  left: 0;
+  padding: 6.49vw 9.49vw;
+  position: absolute;
+  top: 91.7vw;
+  width: 99.88vw;
+}
+
+.homepage .text-1 {
+  align-items: flex-start;
+  gap: 4.0vw;
+  width: 37.14vw;
+}
+
+.homepage .text-2 {
+  align-items: flex-start;
+  gap: 3.25vw;
+  width: fit-content;
+}
+
+.homepage .our-way-of-teaching {
+  letter-spacing: 0;
+  line-height: 4.49vw;
+  margin-top: -0.06vw;
+  width: 37.14vw;
+}
+
+.homepage .pick-an-elemental-wa {
+  letter-spacing: 0;
+  line-height: 2.12vw;
+  opacity: 0.7;
+  width: 37.14vw;
+}
+
+.homepage .lil-1 {
+  height: 28.96vw;
+  margin-right: -0.5vw;
+  min-width: 35.83vw;
+  object-fit: cover;
+}
+
+.homepage .things-youll-learn {
+  align-items: center;
+  background-color: var(--bckgroundbg-1);
+  display: flex;
+  flex-direction: column;
+  gap: 4.49vw;
+  left: 0;
+  padding: 4.49vw 9.49vw;
+  position: absolute;
+  top: 47.75vw;
+  width: 99.88vw;
+}
+
+.homepage .text-3 {
+  align-items: center;
+  gap: 2.0vw;
+  height: 14.36vw;
+  width: 61.24vw;
+}
+
+.homepage .its-everything-you {
+  -webkit-text-stroke: 0.06vw var(--black);
+  color: var(--general-color2);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-xxl);
+  font-weight: 300;
+  height: 16.23vw;
+  letter-spacing: 0;
+  line-height: 2.62vw;
+  margin-bottom: -1.75vw;
+  margin-top: -0.12vw;
+  text-align: center;
+  width: 60.3vw;
+}
+
+.homepage .item {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 2.0vw;
+}
+
+.homepage .frame-100000194 {
+  align-self: stretch;
+  gap: 1.56vw;
+  justify-content: center;
+}
+
+.homepage .frame-100000194-1 {
+  background-color: var(--greygrey-1);
+}
+
+.homepage .oval {
+  background-color: var(--general-color3);
+  border-radius: 0.25vw;
+  height: 0.5vw;
+  min-width: 0.5vw;
+}
+
+.homepage .x50-unique-design-bl {
+  letter-spacing: 0;
+  line-height: 1.87vw;
+  margin-top: -0.06vw;
+  white-space: nowrap;
+  width: 18.5vw;
+}
+
+.homepage .frame-100000194-2 {
+  background-color: #35007b;
+}
+
+.homepage .frame-100000194-3 {
+  background-color: var(--brandbrand-3);
+}
+
+.homepage .frame-1000001943 {
+  background-color: #9747ff;
+  border: 0.06vw solid;
+  border-color: var(--athens-gray);
+  border-radius: 1.0vw;
+  gap: 1.0vw;
+  padding: 1.12vw 1.5vw;
+  width: fit-content;
+}
+
+.homepage .frame-1000001944 {
+  background-color: var(--general-color2);
+  border: 0.06vw solid;
+  border-color: var(--athens-gray);
+  border-radius: 1.0vw;
+  gap: 1.0vw;
+  padding: 1.12vw 1.5vw;
+  width: fit-content;
+}
+
+.homepage .hero-section {
+  align-items: flex-start;
+  display: flex;
+  height: 48.31vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.homepage .overlap-group3 {
+  background-image: url(../img/bg.png);
+  background-size: 100% 100%;
+  height: 48.31vw;
+  position: relative;
+  width: 100.0vw;
+}
+
+.homepage .logo-1 {
+  height: 24.59vw;
+  left: 46.63vw;
+  object-fit: cover;
+  position: absolute;
+  top: 10.05vw;
+  width: 43.7vw;
+}
+
+.homepage .texts {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1.31vw;
+  left: 6.99vw;
+  position: absolute;
+  top: 8.05vw;
+  width: fit-content;
+}
+
+.homepage .welcome-to-no-fun-zone {
+  color: var(--general-color3);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-xxxxxl);
+  font-weight: 700;
+  letter-spacing: -0.06vw;
+  line-height: 6.24vw;
+  margin-top: -0.06vw;
+  width: 45.01vw;
+}
+
+.homepage .a-place-to-learn-discover-and-earn {
+  color: var(--general-color3);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 2.62vw;
+  white-space: nowrap;
+  width: 45.01vw;
+}
+
+.homepage .frame {
+  align-items: center;
+  display: flex;
+}
+
+.homepage .frame-100000194-4 {
+  align-items: center;
+  border: 0.06vw solid;
+  border-color: var(--athens-gray);
+  border-radius: 1.0vw;
+  display: flex;
+  gap: 1.0vw;
+  padding: 1.12vw 1.5vw;
+  width: fit-content;
+}
+
+.homepage .group {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 40.01vw;
+  min-width: 25.53vw;
+}
+
+.homepage .phase-2 {
+  letter-spacing: 0;
+  line-height: 2.62vw;
+  text-align: center;
+  white-space: nowrap;
+  width: 17.79vw;
+}
+
+.homepage .text-4 {
+  display: flex;
+  flex-direction: column;
+}

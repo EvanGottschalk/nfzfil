@@ -1,0 +1,626 @@
+/* screen - lesson-page */
+
+.lesson-page {
+  align-items: center;
+  background-color: var(--general-color3);
+  border: 0.06vw none;
+  display: flex;
+  flex-direction: column;
+  height: 192.66vw;
+  overflow: hidden;
+  width: 100.0vw;
+}
+
+.lesson-page .hero-article-detail {
+  background-color: var(--general-color2);
+  height: 61.0vw;
+  margin-left: 0.31vw;
+  overflow: hidden;
+  position: relative;
+  width: 100.31vw;
+}
+
+.lesson-page .overlap-group3 {
+  height: 69.97vw;
+  left: -12.04vw;
+  position: absolute;
+  top: -1.82vw;
+  width: 124.45vw;
+}
+
+.lesson-page .group-container {
+  height: 69.97vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 124.45vw;
+}
+
+.lesson-page .group-36458 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 202.88vw;
+  left: 12.04vw;
+  min-height: 56.3vw;
+  position: absolute;
+  top: 2.13vw;
+  width: 100.31vw;
+}
+
+.lesson-page .line-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 16.68vw;
+  min-width: 83.64vw;
+}
+
+.lesson-page .line {
+  height: 56.3vw;
+  object-fit: cover;
+  width: 0.06vw;
+}
+
+.lesson-page .line-9 {
+  height: 0.06vw;
+  margin-left: -42.51vw;
+  object-fit: cover;
+  width: 56.3vw;
+}
+
+.lesson-page .group-36459 {
+  align-items: flex-start;
+  display: flex;
+  height: 124.45vw;
+  justify-content: flex-end;
+  left: 27.27vw;
+  min-width: 69.97vw;
+  padding: 12.04vw 1.82vw;
+  position: absolute;
+  top: -27.21vw;
+  transform: rotate(-90deg);
+}
+
+.lesson-page .overlap-group {
+  height: 100.0vw;
+  position: relative;
+  width: 61.0vw;
+}
+
+.lesson-page .line-3 {
+  height: 0.06vw;
+  left: -29.4vw;
+  object-fit: cover;
+  position: absolute;
+  top: 49.97vw;
+  transform: rotate(90deg);
+  width: 100.0vw;
+}
+
+.lesson-page .line-5 {
+  height: 0.06vw;
+  left: -21.38vw;
+  object-fit: cover;
+  position: absolute;
+  top: 49.97vw;
+  transform: rotate(90deg);
+  width: 100.0vw;
+}
+
+.lesson-page .line-6 {
+  height: 0.06vw;
+  left: -13.35vw;
+  object-fit: cover;
+  position: absolute;
+  top: 49.97vw;
+  transform: rotate(90deg);
+  width: 100.0vw;
+}
+
+.lesson-page .line-7 {
+  height: 0.06vw;
+  left: -5.33vw;
+  object-fit: cover;
+  position: absolute;
+  top: 49.97vw;
+  transform: rotate(90deg);
+  width: 100.0vw;
+}
+
+.lesson-page .line-8 {
+  height: 0.06vw;
+  left: 2.7vw;
+  object-fit: cover;
+  position: absolute;
+  top: 49.97vw;
+  transform: rotate(90deg);
+  width: 100.0vw;
+}
+
+.lesson-page .line-9-1 {
+  height: 0.06vw;
+  left: 10.72vw;
+  object-fit: cover;
+  position: absolute;
+  top: 49.97vw;
+  transform: rotate(90deg);
+  width: 100.0vw;
+}
+
+.lesson-page .line-4 {
+  height: 0.06vw;
+  left: -37.43vw;
+  object-fit: cover;
+  position: absolute;
+  top: 49.97vw;
+  transform: rotate(90deg);
+  width: 100.0vw;
+}
+
+.lesson-page .background-1 {
+  height: 61.0vw;
+  left: -19.5vw;
+  object-fit: cover;
+  position: absolute;
+  top: 19.5vw;
+  transform: rotate(90deg);
+  width: 100.0vw;
+}
+
+.lesson-page .img {
+  align-items: flex-end;
+  border-radius: 1.0vw;
+  display: flex;
+  height: 29.47vw;
+  left: 21.57vw;
+  overflow: hidden;
+  position: absolute;
+  top: 28.34vw;
+  width: 81.25vw;
+}
+
+.lesson-page .overlap-group2 {
+  height: 36.43vw;
+  margin-bottom: -6.99vw;
+  position: relative;
+  width: 81.25vw;
+}
+
+.lesson-page .rectangle-10 {
+  background-color: #f1afaf;
+  height: 36.43vw;
+  left: 0;
+  width: 27.15vw;
+}
+
+.lesson-page .rectangle-11 {
+  background-color: #afc5f1;
+  height: 36.43vw;
+  left: 27.15vw;
+  width: 27.15vw;
+}
+
+.lesson-page .rectangle-12 {
+  background-color: #f1ceaf;
+  height: 36.43vw;
+  left: 54.11vw;
+  width: 27.15vw;
+}
+
+.lesson-page .group {
+  height: 23.95vw;
+  left: 5.39vw;
+  position: absolute;
+  top: 0;
+  width: 16.36vw;
+}
+
+.lesson-page .group-1 {
+  height: 23.95vw;
+  left: 32.35vw;
+  position: absolute;
+  top: 0;
+  width: 16.36vw;
+}
+
+.lesson-page .group-2 {
+  height: 23.95vw;
+  left: 59.5vw;
+  position: absolute;
+  top: 0;
+  width: 16.36vw;
+}
+
+.lesson-page .rectangle-2659 {
+  height: 29.47vw;
+  left: 0;
+  width: 81.25vw;
+}
+
+.lesson-page .navbar {
+  align-items: center;
+  background-color: var(--general-color2);
+  display: flex;
+  gap: 2.7vw;
+  left: 11.97vw;
+  padding: 2.51vw 9.53vw;
+  position: absolute;
+  top: 2.13vw;
+  width: 100.31vw;
+}
+
+.lesson-page .navbar-1 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 3.51vw;
+  justify-content: center;
+}
+
+.lesson-page .frame-1000001235 {
+  align-items: center;
+  width: fit-content;
+}
+
+.lesson-page .lessons {
+  letter-spacing: 0;
+  line-height: 1.63vw;
+  margin-top: -0.06vw;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.lesson-page .navbar-link-about-us {
+  letter-spacing: 0;
+  line-height: 1.63vw;
+  margin-top: -0.06vw;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.lesson-page .navbar-link-contact-us {
+  letter-spacing: 0;
+  line-height: 1.63vw;
+  margin-top: -0.06vw;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.lesson-page .button {
+  align-items: center;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(255, 155, 0) 12.5%, rgb(237, 28, 36) 100%);
+  border-radius: 3.76vw;
+  box-shadow: 0.0vw 0.94vw 2.26vw #f657144c;
+  display: flex;
+  flex-direction: column;
+  gap: 0.63vw;
+  height: 4.51vw;
+  justify-content: center;
+  padding: 1.5vw 2.01vw;
+  width: fit-content;
+}
+
+.lesson-page .module-0-syllabus {
+  color: var(--general-color3);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 700;
+  height: 9.03vw;
+  left: 9.78vw;
+  letter-spacing: 0;
+  line-height: 4.51vw;
+  position: absolute;
+  top: 14.55vw;
+  width: 54.86vw;
+}
+
+.lesson-page .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 6.27vw;
+  margin-top: 4.08vw;
+  min-width: 81.19vw;
+}
+
+.lesson-page .text-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1.82vw;
+  height: 27.15vw;
+  width: 54.73vw;
+}
+
+.lesson-page .agency-provides-a-fu {
+  align-self: stretch;
+  height: 25.33vw;
+  letter-spacing: 0;
+  line-height: 2.13vw;
+  margin-top: -0.06vw;
+}
+
+.lesson-page .span-1 {
+  text-decoration: underline;
+}
+
+.lesson-page .a-digital-agency-is {
+  align-self: stretch;
+  height: 16.18vw;
+  letter-spacing: 0;
+  line-height: 1.63vw;
+  margin-bottom: -16.11vw;
+}
+
+.lesson-page .a-digital-agency-is-1 {
+  height: 40.94vw;
+  letter-spacing: 0;
+  line-height: 1.63vw;
+  margin-bottom: -58.87vw;
+  width: 54.73vw;
+}
+
+.lesson-page .popular-articel-sidebar {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3.26vw;
+  height: 76.55vw;
+  width: fit-content;
+}
+
+.lesson-page .popular-article {
+  color: var(--general-color2);
+  font-family: var(--font-family-space_grotesk);
+  font-size: 2.26vw;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 2.88vw;
+  margin-top: -0.06vw;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.lesson-page .article {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5vw;
+  width: fit-content;
+}
+
+.lesson-page .img-1 {
+  background-image: url(../img/rectangle-2481-2@2x.png);
+}
+
+.lesson-page .text {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5vw;
+}
+
+.lesson-page .tips-on-choosing-a-university {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 2.63vw;
+  margin-top: -0.06vw;
+  text-align: justify;
+}
+
+.lesson-page .lorem-ipsum-dolor-si {
+  align-self: stretch;
+  color: var(--greygrey-1);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1.63vw;
+  text-align: justify;
+}
+
+.lesson-page .img-2 {
+  background-image: url(../img/rectangle-2481-3@2x.png);
+}
+
+.lesson-page .article-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5vw;
+  margin-bottom: -23.76vw;
+  width: fit-content;
+}
+
+.lesson-page .footer {
+  align-items: flex-start;
+  background-color: var(--general-color2);
+  border: 0.06vw solid;
+  border-color: transparent;
+  border-image: radial-gradient(rgb(255, 155, 0) 12.5%, rgb(237, 28, 36)) 1;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 31.72vw;
+  justify-content: flex-start;
+  margin-left: 0.31vw;
+  margin-top: 19.31vw;
+  mix-blend-mode: normal;
+  padding: 4.51vw 2.32vw;
+  width: 100.31vw;
+}
+
+.lesson-page .overlap-group-1 {
+  height: 22.57vw;
+  position: relative;
+  width: 90.47vw;
+}
+
+.lesson-page .nav {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  left: 5.2vw;
+  position: absolute;
+  top: 0;
+  width: 85.27vw;
+}
+
+.lesson-page .logo {
+  height: 2.01vw;
+  min-width: 18.06vw;
+}
+
+.lesson-page .nav-menu {
+  align-items: flex-start;
+  display: flex;
+  gap: 4.01vw;
+  width: fit-content;
+}
+
+.lesson-page .nfz {
+  letter-spacing: 0;
+  line-height: 2.13vw;
+  margin-top: -0.06vw;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.lesson-page .frame-14621 {
+  align-items: flex-start;
+  flex-direction: column;
+  width: 11.54vw;
+}
+
+.lesson-page .place {
+  letter-spacing: 0;
+  line-height: 1.76vw;
+  margin-top: -0.06vw;
+  white-space: nowrap;
+  width: 11.47vw;
+}
+
+.lesson-page .about-us {
+  letter-spacing: 0;
+  line-height: 1.76vw;
+  white-space: nowrap;
+  width: 11.47vw;
+}
+
+.lesson-page .your-nf-ts {
+  letter-spacing: 0;
+  line-height: 1.76vw;
+  white-space: nowrap;
+  width: 11.47vw;
+}
+
+.lesson-page .blog {
+  letter-spacing: 0;
+  line-height: 1.76vw;
+  white-space: nowrap;
+  width: 11.47vw;
+}
+
+.lesson-page .info {
+  letter-spacing: 0;
+  line-height: 2.13vw;
+  margin-top: -0.06vw;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.lesson-page .terms-conditions {
+  letter-spacing: 0;
+  line-height: 1.76vw;
+  margin-top: -0.06vw;
+  white-space: nowrap;
+  width: 11.47vw;
+}
+
+.lesson-page .privacy-policy {
+  letter-spacing: 0;
+  line-height: 1.76vw;
+  white-space: nowrap;
+  width: 11.47vw;
+}
+
+.lesson-page .cookies {
+  letter-spacing: 0;
+  line-height: 1.76vw;
+  white-space: nowrap;
+  width: 11.47vw;
+}
+
+.lesson-page .community {
+  letter-spacing: 0;
+  line-height: 2.13vw;
+  margin-top: -0.06vw;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.lesson-page .help-center {
+  letter-spacing: 0;
+  line-height: 1.76vw;
+  margin-top: -0.06vw;
+  white-space: nowrap;
+  width: 11.47vw;
+}
+
+.lesson-page .place-1 {
+  letter-spacing: 0;
+  line-height: 1.76vw;
+  white-space: nowrap;
+  width: 11.47vw;
+}
+
+.lesson-page .webinars {
+  letter-spacing: 0;
+  line-height: 1.76vw;
+  white-space: nowrap;
+  width: 11.47vw;
+}
+
+.lesson-page .professionals {
+  letter-spacing: 0;
+  line-height: 1.76vw;
+  white-space: nowrap;
+  width: 11.47vw;
+}
+
+.lesson-page .logo-2 {
+  height: 20.56vw;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2.01vw;
+  width: 36.55vw;
+}
+
+.lesson-page .frame {
+  display: flex;
+  gap: 1.0vw;
+}
+
+.lesson-page .img-3 {
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 0.06vw solid;
+  border-color: transparent;
+  border-image: radial-gradient(rgb(255, 155, 0) 12.5%, rgb(237, 28, 36)) 1;
+  border-radius: 1.0vw;
+  height: 18.68vw;
+  min-width: 20.19vw;
+}
+
+.lesson-page .navbar-link {
+  letter-spacing: 0;
+  line-height: 1.63vw;
+  margin-top: -0.06vw;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}

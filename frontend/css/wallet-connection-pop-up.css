@@ -1,0 +1,93 @@
+/* screen - wallet-connection-pop-up */
+
+.wallet-connection-pop-up {
+  align-items: flex-start;
+  background-color: var(--general-color3);
+  border: 0.06vw none;
+  display: flex;
+  height: 42.62vw;
+  overflow: hidden;
+  width: 100.0vw;
+}
+
+.wallet-connection-pop-up .wallet-connection-pop-up-1 {
+  align-items: flex-start;
+  background-color: var(--bckgroundbg-1);
+  display: flex;
+  height: 44.31vw;
+  min-width: 100.0vw;
+  padding: 6.5vw 9.5vw;
+}
+
+.wallet-connection-pop-up .overlap-group {
+  height: 6.56vw;
+  position: relative;
+  width: 81.0vw;
+}
+
+.wallet-connection-pop-up .frame-1000002070 {
+  align-items: center;
+  display: flex;
+  gap: 5.94vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 81.0vw;
+}
+
+.wallet-connection-pop-up .title {
+  letter-spacing: 0;
+  line-height: 4.5vw;
+  margin-top: -0.06vw;
+  white-space: nowrap;
+  width: 62.62vw;
+}
+
+.wallet-connection-pop-up .frame-1000002072 {
+  height: 7.25vw;
+  left: 22.81vw;
+  position: absolute;
+  top: 5.69vw;
+  width: 5.56vw;
+}
+
+.wallet-connection-pop-up .elements-geometric-s {
+  height: 4.56vw;
+  left: 54.56vw;
+  position: absolute;
+  top: 1.38vw;
+  width: 4.56vw;
+}
+
+.wallet-connection-pop-up .elements-geometric-s-1 {
+  align-items: flex-end;
+  display: flex;
+  gap: 5.94vw;
+  height: 2.06vw;
+  left: 58.69vw;
+  min-width: 2.06vw;
+  position: absolute;
+  top: 4.5vw;
+}
+
+.wallet-connection-pop-up .trust-wallet-button {
+  height: 18.75vw;
+  margin-bottom: -22.06vw;
+  margin-left: -50.25vw;
+  object-fit: cover;
+  width: 18.75vw;
+}
+
+.wallet-connection-pop-up .filcoin-wallet-button {
+  height: 16.94vw;
+  margin-bottom: -21.16vw;
+  object-fit: cover;
+  width: 16.94vw;
+}
+
+.wallet-connection-pop-up .metamask-button {
+  height: 18.5vw;
+  margin-bottom: -21.94vw;
+  object-fit: cover;
+  width: 17.88vw;
+}

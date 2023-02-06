@@ -1,0 +1,139 @@
+/* screen - pick-your-starter-pop-up */
+
+.pick-your-starter-pop-up {
+  align-items: flex-start;
+  background-color: var(--general-color3);
+  border: 0.05vw none;
+  display: flex;
+  height: 33.69vw;
+  overflow: hidden;
+  width: 100.0vw;
+}
+
+.pick-your-starter-pop-up .pick-your-starter-pop-up-1 {
+  align-items: center;
+  background-color: var(--bckgroundbg-1);
+  display: flex;
+  flex-direction: column;
+  gap: 5.26vw;
+  margin-top: -1.77vw;
+  padding: 5.26vw 7.69vw;
+  width: 100.0vw;
+}
+
+.pick-your-starter-pop-up .text-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 1.21vw;
+  width: fit-content;
+}
+
+.pick-your-starter-pop-up .title {
+  color: var(--general-color2);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-xxxl);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 3.03vw;
+  margin-top: -0.05vw;
+  text-align: center;
+  white-space: nowrap;
+  width: 36.32vw;
+}
+
+.pick-your-starter-pop-up .buttons {
+  align-items: flex-start;
+  display: flex;
+  gap: 8.3vw;
+  margin-left: -2.71vw;
+  margin-right: -2.71vw;
+  width: fit-content;
+}
+
+.pick-your-starter-pop-up .x-elemental-button {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1.21vw;
+  width: fit-content;
+}
+
+.pick-your-starter-pop-up .img {
+  background-image: url(../img/rectangle-2481-4@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 0.05vw solid;
+  border-color: transparent;
+  border-image: radial-gradient(rgb(255, 155, 0) 12.5%, rgb(237, 28, 36)) 1;
+  border-radius: 0.81vw;
+  height: 15.07vw;
+  min-width: 16.29vw;
+}
+
+.pick-your-starter-pop-up .text {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4vw;
+}
+
+.pick-your-starter-pop-up .tips-on-choosing-a-university {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 2.12vw;
+  margin-top: -0.05vw;
+  text-align: justify;
+  white-space: nowrap;
+}
+
+.pick-your-starter-pop-up .img-1 {
+  background-image: url(../img/rectangle-2481-5@2x.png);
+}
+
+.pick-your-starter-pop-up .water-elemental {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 2.12vw;
+  margin-top: -0.05vw;
+  text-align: justify;
+  white-space: nowrap;
+}
+
+.pick-your-starter-pop-up .img-2 {
+  background-image: url(../img/rectangle-2481-6@2x.png);
+}
+
+.pick-your-starter-pop-up .earth-elemental {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 2.12vw;
+  margin-top: -0.05vw;
+  text-align: justify;
+  white-space: nowrap;
+}
+
+.pick-your-starter-pop-up .img-3 {
+  background-image: url(../img/rectangle-2481-7@2x.png);
+}
+
+.pick-your-starter-pop-up .air-elemental {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 2.12vw;
+  margin-top: -0.05vw;
+  text-align: justify;
+  white-space: nowrap;
+}
+
+.pick-your-starter-pop-up .img-4 {
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 0.05vw solid;
+  border-color: transparent;
+  border-image: radial-gradient(rgb(255, 155, 0) 12.5%, rgb(237, 28, 36)) 1;
+  border-radius: 0.81vw;
+  height: 15.07vw;
+  min-width: 16.29vw;
+}

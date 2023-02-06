@@ -1,0 +1,108 @@
+:root { 
+  --athens-gray: #eae9f2;
+  --bckgroundbg-1: #f7f5ed;
+  --black: #000000;
+  --brandbrand-3: #ff9b00;
+  --general-color2: #060919;
+  --general-color3: #ffffff;
+  --greygrey-1: #3e4150;
+ 
+  --font-size-l: 16px;
+  --font-size-m: 16px;
+  --font-size-xl: 21px;
+  --font-size-xxl: 24px;
+  --font-size-xxxl: 48px;
+  --font-size-xxxxl: 52px;
+  --font-size-xxxxxl: 75px;
+ 
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-space_grotesk: "Space Grotesk", Helvetica;
+}
+.spacegrotesk-normal-white-18px {
+  color: var(--general-color3);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.spacegrotesk-normal-white-16px {
+  color: var(--general-color3);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.spacegrotesk-normal-blue-charcoal-16px {
+  color: var(--general-color2);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.2rem;
+}
+
+.spacegrotesk-medium-white-21px {
+  color: var(--general-color3);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-semi-bold-white-18px {
+  color: var(--general-color3);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.spacegrotesk-bold-blue-charcoal-32px {
+  color: var(--general-color2);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.spacegrotesk-medium-white-16px {
+  color: var(--general-color3);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.spacegrotesk-normal-blue-charcoal-21px {
+  color: var(--general-color2);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.spacegrotesk-bold-blue-charcoal-64px {
+  color: var(--general-color2);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.spacegrotesk-bold-white-32px {
+  color: var(--general-color3);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.spacegrotesk-normal-white-21px {
+  color: var(--general-color3);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}

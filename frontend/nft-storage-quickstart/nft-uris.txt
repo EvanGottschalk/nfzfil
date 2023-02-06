@@ -1,0 +1,35 @@
+URL Structure:
+https://ipfs.io/ipfs/<URI1>/metadata.json
+https://ipfs.io/ipfs/<URI2>/LMNTL<element><level>.json
+
+Fire 1:
+bafyreibeozsnw3t4z7f5gwknowfkc4zbitml7c3towdwotuk5ssr45lyui
+bafybeid2oy2tbsig674eh7n4kp4gqribvpr6ajodxokfhyzftl3il7troy
+
+Water 1:
+bafyreidlppkhzq7fllkhloe2fks4e3ifqdd37c252qrihhlxzlkdgy35oe
+bafybeihrxhmnywfxxv6jfe2adfbe22m4r56dfkpgksdn2fdbkdardxcjhu
+
+Air 1:
+bafyreigtl64qkk72aadfl6w3kekngi4mkrbgm5zhtjujsswza5lckpumci
+bafybeifxei46fbqxdcriqls6bb4bkvehqhs7ibbsx62mena3fisf73tk3a
+
+Earth 1:
+bafyreif5n5kmiar7l2xzgudclv7tnwauraxu5ibuy4nvxm3xhchv52wdza
+bafybeibh7cukho5d2i7gjtuophcw455wnzk5rvy5cp7dwva74izhwst46a
+
+Fire 2:
+bafyreihbtc7exe6area7etdkx5byqrcmfkfxcnti22fta4cmvqje3rxtey
+bafybeiaejbgk6zlz43r4fgubbxv5m3nveb23wt2mtywwqhaoj627vpf7xi
+
+Water 2:
+bafyreibcrdzfrheu4m2ydq7kcubrkhau2at72cot5z3magyjnkocfkkfcu
+bafybeidmkzry7ycmrii5iaibbycocptpbm5x6xo7m5y3yvln3qzdw53xwi
+
+Air 2:
+bafyreihqg36y2pv432nj7ci4oxwutc6wisocdj23lisrbob7bh3gaq7iwe
+bafybeihp5xj3ynypjsl2si2ve47bs4uydm6tvyxvljnbllyrobxom67hxa
+
+Earth 2:
+bafyreiepl62swygf33zdf2wnv4grhp5qxfhziywnwskodqjs3nb32qlg6a
+bafybeicnog62bhxyinwq6f43pkalkr26ahcj3fjpl3nizg5deaaz7cruxm
